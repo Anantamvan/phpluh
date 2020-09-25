@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>smsMasking</title>
+    <title>masking masterluh</title>
 </head>
 <body>
     <h1>smsMasking with PHP</h1>
